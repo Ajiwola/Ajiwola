@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajiwola. Full name: Omogbehin Stephen Ajiwola
-- 👀 I’m interested in DevOps, Cloud Infrastructure Services, SRE and IT Support
-- 🌱 I’m currently learning AWS Solution Architect Associate
-- 💞️ I’m looking to collaborate on AWS, Azure projects, Linux project and IT support (infrastructure), Virtualization
+- 👀 I’m interested in Cloud Infrastructure Services, Application development using Microsoft Power Platform, and Software Quality Assurance
+- 🌱 I’m currently learning Architecture designing for Cloud Infrastructure and build responsive application.
+- 💞️ I’m looking to collaborate on AWS, Azure, Technical support (infrastructure), Software testing and application development
 - 📫 How to reach me email: omogbehinsteven@gmail.com Linkedin- www.linkedin.com/in/omogbehin-stephen
 
 <!---

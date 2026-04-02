@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Ajiwola. Full name: Omogbehin Stephen Ajiwola
-- 👀 I’m interested in Cloud Infrastructure Services, Application development using Microsoft Power Platform, and Software Quality Assurance
-- 🌱 I’m currently learning Architecture designing for Cloud Infrastructure and build responsive application.
-- 💞️ I’m looking to collaborate on AWS, Azure, Technical support (infrastructure), Software testing and application development
-- 📫 How to reach me email: omogbehinsteven@gmail.com Linkedin- www.linkedin.com/in/omogbehin-stephen
+Hi, I’m Omogbehin Stephen Ajiwola
+
+I’m passionate about Software Quality Assurance, Automation, and Cloud Infrastructure Support, with hands-on experience building automated systems for bug tracking, SLA monitoring, and incident management.
+
+🌱 Currently expanding my expertise in Quality Assurance, Automation, and scalable cloud infrastructure
+
+💞️ Open to collaborating on:
+
+Software Testing & QA (Manual & Automation)
+Incident & Problem Management
+Cloud Infrastructure Support (AWS & Azure)
+Process Automation & Application Development
+How to reach me email: omogbehinsteven@gmail.com Linkedin- www.linkedin.com/in/omogbehin-stephen
 
 <!---
 Ajiwola/Ajiwola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,6 +10,7 @@ Software Testing & QA (Manual & Automation)
 Incident & Problem Management
 Cloud Infrastructure Support (AWS & Azure)
 Process Automation & Application Development
+Agentic AI
 How to reach me email: omogbehinsteven@gmail.com Linkedin- www.linkedin.com/in/omogbehin-stephen
 
 <!---
